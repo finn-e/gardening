@@ -1,6 +1,6 @@
-baseURL = "https://fin.oflaherty.is/gardening/"
+baseURL = "https://quartz.jzhao.xyz/"
 languageCode = "en-us"
-googleAnalytics = ""
+googleAnalytics = "G-XYFD95KB4J"
 pygmentsUseClasses = true
 relativeURLs = false
 disablePathToLower = true
