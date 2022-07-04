@@ -3,7 +3,8 @@ title: 🪴 Fin's Garden
 status: Early
 sureness: Low
 ---
-
+Not much here, yet. Just [colophon]
+or [colophon](colophon)
 Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. Quartz features
 
 1. Extremely fast full-text search by pressing `Ctrl` + `k`
