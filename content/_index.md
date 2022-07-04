@@ -1,5 +1,7 @@
 ---
-title: 🪴 Quartz 3.2
+title: 🪴 Fin's Garden
+status: Early
+sureness: Low
 ---
 
 Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. Quartz features
