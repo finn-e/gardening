@@ -1,8 +1,19 @@
 # Todo
 ## Commit daily
-- [ ] pick a static site generator and write about it
+- [ ] Yellow Pages LDAP auth
+- [ ] UT admissions stuff
+	- [ ] submit GRE
+	- [ ] submit Transcripts
+	- [ ] contact Dr B
+	- [ ] Write statement of purpose
+	- [ ] Update Resume
+- [ ] Finish Thin Sections
+	- [ ] Get Carrie to upload rest of them
+	- [ ] Get photos from Liz
+	- [ ] Clean up code
+- [x] pick a static site generator and write about it
 - [x] start using checks and build up
-- [ ] something
+- [x] something
 - work on reading list
 - copy over from obsidian - keyboard, &c
   - test getting out of foam + next.js

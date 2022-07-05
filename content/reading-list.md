@@ -1,5 +1,10 @@
-# reading-list 2022
+---
+title: Reading List 2022
+status: Early
+sureness: Low
+---
 ## books
+- [ ] Essential Alan Watts
 - [ ] Atomic Habits - James Clear
 - [ ] Mathematics of Human Flourishing - Francis Su
 - [ ] Atlas of the Heart - Brene Brown
@@ -30,6 +35,11 @@
 - [x] Fierce Self-Compassion - Kristin Neff
 
 ## audiobooks
+- [ ] Four Agreements - Don Miguel Ruiz
+	- [ ] Four
+	- [ ] Times
+	- [ ] Per
+	- [x] Year
 - [ ] Atomic Habits - James Clear
 
 ## essays
