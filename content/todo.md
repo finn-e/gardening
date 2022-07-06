@@ -3,10 +3,10 @@
 - [ ] Yellow Pages LDAP auth
 - [ ] UT admissions stuff
 	- [ ] submit GRE
-	- [ ] submit Transcripts
+	- [x] submit Transcripts
 	- [x] contact Dr B
-	- [ ] Write statement of purpose
-	- [x] Update Resume
+	- [x] Write statement of purpose
+	- [ ] Upload Resume
 - [ ] Finish Thin Sections
 	- [ ] Get Carrie to upload rest of them
 	- [ ] Get photos from Liz
