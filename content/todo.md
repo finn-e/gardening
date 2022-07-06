@@ -4,9 +4,9 @@
 - [ ] UT admissions stuff
 	- [ ] submit GRE
 	- [ ] submit Transcripts
-	- [ ] contact Dr B
+	- [x] contact Dr B
 	- [ ] Write statement of purpose
-	- [ ] Update Resume
+	- [x] Update Resume
 - [ ] Finish Thin Sections
 	- [ ] Get Carrie to upload rest of them
 	- [ ] Get photos from Liz

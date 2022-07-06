@@ -9,10 +9,12 @@ It's still early days in both using a personal knowledge management system and p
 - editor: obsidian
 - storage: github
 - host: github pages
-- build: github pages
+- build: [github](github)
 - computer: Lenovo ThinkPad L390
 - os: manjaro (linux)
 - window manager: bismuth (kwin)
 - desktop environment: kde
 - keyboard: built-in JIS
 - keyboard layout: ada (advanced developer's August)
+
+
