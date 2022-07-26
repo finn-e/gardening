@@ -1,16 +1,18 @@
 # Todo
 ## Commit daily
+- [ ] 
+- [ ] Switch to using google drive for obsidian sync and a serverbased push &c for daily commit
 - [ ] Yellow Pages LDAP auth
-- [ ] UT admissions stuff
-	- [ ] submit GRE
+- [x] UT admissions stuff
+	- [x] submit GRE
 	- [x] submit Transcripts
 	- [x] contact Dr B
 	- [x] Write statement of purpose
-	- [ ] Upload Resume
-- [ ] Finish Thin Sections
+	- [x] Upload Resume
+- [x] Finish Thin Sections
 	- [ ] Get Carrie to upload rest of them
-	- [ ] Get photos from Liz
-	- [ ] Clean up code
+	- [x] Get photos from Liz
+	- [x] Clean up code
 - [x] pick a static site generator and write about it
 - [x] start using checks and build up
 - [x] something
