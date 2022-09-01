@@ -1,0 +1,7 @@
+ada - advanced developer's August
+My perpetually under construction keyboard layout.
+Started life as [August][https://colibius.tumblr.com/post/117989525096], a modernized version of Dvorak. This became the light version, ala [Developer's Dvorak][https://web.archive.org/web/20121217115040/http://www.andong.co.uk:80/dvorak/DDvorak.aspx?page=Advanced+DDvorak]. The difference between light developer's August is the addition of some dead keys in place of 'q', ',', and ';'. These work by, for the example of comma, switching to an alternate layer when tapped, which then sends comma then space when space is pressed. Since comma isn't folloWed by anything else, the rest can be whatever; in this case symbols. q is similar but sends qu for u on the q layer.
+
+Standard developer's August then rearranges primarily the right hand side to put T and H on the right thumb, wiht a combo of th when both are pressed. As the layout is implemented in kmonad, which doesn't yet support combos, the combos are hacky. This is the layout that I'm currently using.
+
+Lastly is advanced developer's August. This is the goal, and compared to standard it moves some letters to alternate layers so that the center index column isn't used. No Lateral Movement!

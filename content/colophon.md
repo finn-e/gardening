@@ -15,6 +15,6 @@ It's still early days in both using a personal knowledge management system and p
 - window manager: bismuth (kwin)
 - desktop environment: kde
 - keyboard: built-in JIS
-- keyboard layout: ada (advanced developer's August)
+- keyboard layout: [[ada]] (advanced developer's August)
 
 
