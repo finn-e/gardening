@@ -11,10 +11,10 @@ It's still early days in both using a personal knowledge management system and p
 - host: github pages
 - build: [github](github)
 - computer: Lenovo ThinkPad L390
-- os: manjaro (linux)
-- window manager: bismuth (kwin)
+- os: arch (linux)
+- window manager: kwin
 - desktop environment: kde
 - keyboard: built-in JIS
-- keyboard layout: [[ada]] (advanced developer's August)
+- keyboard layout: [custom-keyboard-layout](custom)
 
 
